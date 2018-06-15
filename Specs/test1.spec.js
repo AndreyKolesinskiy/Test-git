@@ -39,7 +39,10 @@ describe('Test1', function () {
         page.clickReset();
         //expect(page.checkCleaning.getText()).toBe('Noch nichts geändert');
     });
-    it('Secons commit', function () {
+    it('Second commit', function () {
+
+    });
+    it('Fourth commit', function () {
 
     });
 });
