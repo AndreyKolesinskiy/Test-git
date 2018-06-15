@@ -48,7 +48,7 @@ describe('Test1', function () {
     it('Fourth commit', function () {
 
     });
-    it('Github commit', function () {
+    it('Github commit newbranch', function () {
 
     });
 });
